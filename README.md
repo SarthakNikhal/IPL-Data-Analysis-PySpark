@@ -32,13 +32,6 @@ The project involves various analysis tasks such as:
 - Identifying top-scoring batsmen and most economical bowlers in each season.
 - Visualizing key metrics and insights using charts and graphs.
 
-## Tools Used
-![image](https://github.com/user-attachments/assets/e9350f92-0013-4648-94a7-bf91c7524716)
-![image](https://github.com/user-attachments/assets/da1970f0-1ba9-453d-9056-f776e58885a0)
-![image](https://github.com/user-attachments/assets/17faa924-53ff-4cd9-aa4b-3ce08aaa7dee)
-![image](https://github.com/user-attachments/assets/35d5c549-01ba-4ddd-b0bc-b3a09ede4c88)
-
-
 ## How to Run
 
 1. **Set up Environment:** Install PySpark, Matplotlib, and Seaborn in your environment. Tip: Use databricks compute cluster for large datasets and efficient setup.
@@ -59,6 +52,15 @@ The analysis provides insights into various aspects of the IPL, such as:
 ## Conclusion
 
 This project demonstrates the potential of data analysis to extract valuable insights from a large dataset such as the IPL. The findings can be further used to understand and predict team performance, player performance, and match outcomes.
+
+
+## Tools Used
+![image](https://github.com/user-attachments/assets/e9350f92-0013-4648-94a7-bf91c7524716)
+![image](https://github.com/user-attachments/assets/da1970f0-1ba9-453d-9056-f776e58885a0)
+![image](https://github.com/user-attachments/assets/17faa924-53ff-4cd9-aa4b-3ce08aaa7dee)
+![image](https://github.com/user-attachments/assets/35d5c549-01ba-4ddd-b0bc-b3a09ede4c88)
+
+
 
 ## Future Enhancements
 - Analyze the impact of player nationality on team performance.
