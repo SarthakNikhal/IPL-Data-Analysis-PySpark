@@ -19,6 +19,8 @@ You can find the dataset here: https://www.kaggle.com/datasets/raghu07/ipl-data-
 - **PySpark:** For data processing and analysis.
 - **Matplotlib & Seaborn:** For data visualization.
 - **Databricks:** For efficient environment setup and utlizing spark.
+- 
+![image](https://github.com/user-attachments/assets/033ed193-99d5-4833-b81d-7237bf1f6e07)
 
 ## Analysis and Insights
 
@@ -29,6 +31,13 @@ The project involves various analysis tasks such as:
 - Analyzing the impact of winning the toss on match outcomes.
 - Identifying top-scoring batsmen and most economical bowlers in each season.
 - Visualizing key metrics and insights using charts and graphs.
+
+## Tools Used
+![image](https://github.com/user-attachments/assets/e9350f92-0013-4648-94a7-bf91c7524716)
+![image](https://github.com/user-attachments/assets/da1970f0-1ba9-453d-9056-f776e58885a0)
+![image](https://github.com/user-attachments/assets/17faa924-53ff-4cd9-aa4b-3ce08aaa7dee)
+![image](https://github.com/user-attachments/assets/35d5c549-01ba-4ddd-b0bc-b3a09ede4c88)
+
 
 ## How to Run
 
